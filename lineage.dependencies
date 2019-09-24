@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_device_Infinix_X626",
+    "target_path": "device/Infinix/X626"
+  },
+#   /*{
+#     "repository": "android_kernel_Infinix_X626",
+#     "target_path": "kernel/Infinix/X626"
+#   }*/
+# ]
