@@ -17,4 +17,4 @@ Rear Camera  | 13.0 + 8.0 + 2.0 MP, LED flash
 Front Camera | 32.0 MP
 Release Year | 2019
 
-![Infinix S4](https://cdn2.gsmarena.com/vv/pics/infinix/infinix-hot-s4-1.jpg")
+![Infinix S4]("https://cdn2.gsmarena.com/vv/pics/infinix/infinix-hot-s4-1.jpg")
